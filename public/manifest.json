@@ -1,0 +1,17 @@
+{
+  "name": "Muhammad Umar Khalid - Software Developer",
+  "short_name": "Muhammad Umar Khalid",
+  "description": "Portfolio of Muhammad Umar Khalid - Software Developer specializing in .NET Core and full-stack technologies",
+  "icons": [
+    {
+      "src": "/muhammad-umar-khalid-logo.png",
+      "sizes": "1254x1254",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
